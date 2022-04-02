@@ -4,7 +4,7 @@
 Java applet to test an Osu! player's ability to stream. 
 It records the beats per minute in eigth notes that the player is able to tap using two keys.
 </p>
-[Download](https://www.mediafire.com/file/4i1ndcqbdyzei7a/bpmtrainer-1.0.jar/file)
+<a href="https://www.mediafire.com/file/4i1ndcqbdyzei7a/bpmtrainer-1.0.jar/file">
 <hr><br>
 
 <h4>Applet Home</h4>
