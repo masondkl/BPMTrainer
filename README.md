@@ -4,16 +4,16 @@ It records the beats per minute in eigth notes that the player is able to tap us
 [Download](https://www.mediafire.com/file/4i1ndcqbdyzei7a/bpmtrainer-1.0.jar/file)
 
 Applet Home
-![Home](http://prntscr.com/1qbrv82)
+![Home](https://prntscr.com/1qbrv82)
 
 Press key buttons to select controls
-![Key button when pressed](http://prntscr.com/1qbry50)
-![GitHub Light](http://prntscr.com/1qbry50)
+![Key button when pressed](https://prntscr.com/1qbry50)
+![GitHub Light](https://prntscr.com/1qbry50)
 Choose controls
-![Key button when chosen](http://prntscr.com/1qbrz15)
+![Key button when chosen](https://prntscr.com/1qbrz15)
 
 Click on the target BPM speed that is displayed to edit it
-![Target bpm](http://prntscr.com/1qbs60i)
+![Target bpm](https://prntscr.com/1qbs60i)
 
 While hovering over the TAP button, tap either or both of the selected keys to increase recorded "BPM" speed
-![Tapping](http://prntscr.com/1qbs1fl)
+![Tapping](https://prntscr.com/1qbs1fl)
