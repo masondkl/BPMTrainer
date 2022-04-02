@@ -8,7 +8,7 @@ Applet Home
 
 Press key buttons to select controls
 ![Key button when pressed](http://prntscr.com/1qbry50)
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+![GitHub Light](http://prntscr.com/1qbry50)
 Choose controls
 ![Key button when chosen](http://prntscr.com/1qbrz15)
 
