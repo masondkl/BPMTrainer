@@ -1,4 +1,4 @@
-<h1 style="color=rgb(255, 219, 219);">BPM Trainer</h1>
+<h2 style="color=rgb(255, 219, 219);">BPM Trainer</h2>
 <br><hr>
 <p style="color=rgb(229, 229, 229);">
 Java applet to test an Osu! player's ability to stream. 
