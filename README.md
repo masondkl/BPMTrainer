@@ -2,7 +2,7 @@ This repository represents a Java applet I made to test an Osu! player's ability
 It records the beats per minute in eigth notes that the player is able to tap using two keys.
 
 [Download](https://www.mediafire.com/file/4i1ndcqbdyzei7a/bpmtrainer-1.0.jar/file)
-
+<h1>GG</h1>
 Applet Home
 ![Home](https://prntscr.com/1qbrv82)
 
